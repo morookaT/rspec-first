@@ -1,24 +1,12 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### 学習用のプロジェクト
+以下の点を試して、学習するために作成しています。
 
-Things you may want to cover:
+* rspecを使用したテスト駆動
 
-* Ruby version
+* git・githubのコミット、プルリク、イシュー、マイルストーンを集団開発に向け意識して使用
 
-* System dependencies
+* ついでにrailsチュートリアルの復讐も兼ねる
 
-* Configuration
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
